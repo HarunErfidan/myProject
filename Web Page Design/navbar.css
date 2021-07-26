@@ -1,0 +1,44 @@
+header {
+    width: 100%;
+    height: 6rem;
+    border-bottom: 0.4rem solid #A9508B;
+    background-color: #35424A;
+
+}
+
+nav {
+    padding-top: 1rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    color: #fff;
+    display: flex;
+    justify-content: space-between
+}
+
+ul li {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+}
+
+ul li>a:hover {
+    color: #A9508B;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+#head-letter span {
+    color: #A9508B;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
